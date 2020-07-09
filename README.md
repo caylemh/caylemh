@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Caylem Harris 👋
 
+I'm an aspiring Full Stack Java Developer, hoping to make quick inrodes into the developer world. I started my developer career quite latte in life but I've come to the obvious conclusion that no one is too old to learn right! 
 <!--
 **caylemh/caylemh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
