@@ -4,7 +4,7 @@ I'm an aspiring Full Stack Java Developer, hoping to make quick inrodes into the
 
 I love God, my family, coffee &... Did I mention I LOOOOVVVE :coffee: :grin:!!!
 
-🌱 I’m currently learning Angular 😉
+🌱 I’m currently learning Frontend Development using VanillaJS & some backend using Node Express. 😉
 <!--
 **caylemh/caylemh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
