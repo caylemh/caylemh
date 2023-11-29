@@ -2,6 +2,8 @@
 
 I'm an aspiring Full Stack Java Developer, hoping to make quick inrodes into the developer world. I started my developer career quite late in life but I've come to the obvious conclusion that no one is too old to learn right! 
 
+- 🌱 I’m currently completing the Odin Project: Foundation Course
+
 I love God, my family, coffee &... Did I mention I LOOOOVVVE :coffee: :grin:!!!
 
 <!--
