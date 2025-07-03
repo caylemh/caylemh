@@ -1,6 +1,6 @@
 ### Hi there, I'm Caylem Harris 👋
 
-I'm an aspiring Full Stack Java Developer, hoping to make quick inrodes into the developer world. I started my developer career quite late in life but I've come to the obvious conclusion that no one is too old to learn right! 
+I'm an aspiring Full Stack Web Developer, hoping to make some solid progress into the developer world. I started my developer career quite late in life but I've come to the obvious conclusion that no one is too old to learn right! 
 
 - 🌱 I completed the Odin Project: Foundation Course :white_check_mark:
 - I'm currently completing the Odin Project: Javascript Path
